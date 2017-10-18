@@ -34,13 +34,11 @@ Several quick start options are available:
 - Clone the repo: `git clone https://github.com/froala/design-blocks.git`
 - Install with [npm](https://www.npmjs.com/): `npm install froala-design-blocks`
 
-
-
 ## What's included
 
 Within the download archive you'll find the following directories and files, logically grouping common assets and providing both compiled and minified variations. You'll see something like this:
 
-```
+``
 design-blocks/
 ├── dist/
 │   ├── css/
